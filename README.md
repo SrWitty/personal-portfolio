@@ -25,7 +25,7 @@ Feel free to follow, connect, or reach out to me through these platforms.
 
 ## Credits
 
-The original website design and structure are based on the template created by iishadow. It has been extended and customized by iiShadow11 to add additional features and content.
+The original website design and structure are based on the template created by iishadow. It has been extended and customized by iiShadow to add additional features and content.
 
 If you have any questions or would like to collaborate on a project, please don't hesitate to reach out through any of the provided social media links.
 
